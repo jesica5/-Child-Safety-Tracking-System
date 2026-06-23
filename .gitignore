@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Production builds
+dist/
+build/
+
+# Local databases & credentials
+.env
+backend/data/db.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
